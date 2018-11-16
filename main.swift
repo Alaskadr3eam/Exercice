@@ -2,6 +2,9 @@
 // MARK: - Parameters
 //======================
 
+
+
+
 let price = 1499.0 // prix voyage
 var numberOfDay = 0 // nombre de jour pendant lequel joey doit economiser
 var money = 0.0 // argent du départ
@@ -92,4 +95,4 @@ while true {
     }
 
 
-
+// je m'ennuie a faire cette exercice inutile.
